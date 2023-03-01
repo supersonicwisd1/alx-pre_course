@@ -1,0 +1,3 @@
+[submodule "0x01-git/bash"]
+	path = 0x01-git/bash
+	url = https://github.com/supersonicwisd1/alx-pre_course.git
